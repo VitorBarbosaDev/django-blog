@@ -123,6 +123,10 @@ body {
     color: #23BBBB;
 }
 
+.profile-image {
+    width: 75%;
+}
+
 .link {
     color: #23BBBB;
     text-decoration: none;
